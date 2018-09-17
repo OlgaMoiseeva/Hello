@@ -14,6 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine("qqqq");
             Console.WriteLine("11");
             Console.WriteLine("22");
+            Console.WriteLine("33"); 
             Console.ReadLine();
         }
     }
